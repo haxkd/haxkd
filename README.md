@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on many things...
 - 📫 How to reach me 
-facebook: https://facebook.com/haxkd
+- - facebook: https://facebook.com/haxkd
 email: abulhax@gmail.com
 twitter: https://twitter.com/abulhax
 instagram: https://instagram.com/haxkd_official
