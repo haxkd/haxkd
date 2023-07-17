@@ -9,11 +9,11 @@
   - instagram: https://instagram.com/haxkd_official
   - linkedin: https://linkedin.com/in/haxkd
   - hackerearth: https://hackerrank.com/abulhax
-  - newton school: 
   - Codechef: https://codechef.com/users/haxkd
   - code forces: https://codeforces.com/profile/haxkd
   - hackerrank: https://www.hackerrank.com/abulhax
   - leet code: https://leetcode.com/haxkd/
+  - geeksforgeeks: https://auth.geeksforgeeks.org/user/abulhax
 
 <!---
 haxkd/haxkd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
