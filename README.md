@@ -14,6 +14,7 @@
   - hackerrank: https://www.hackerrank.com/abulhax
   - leet code: https://leetcode.com/haxkd/
   - geeksforgeeks: https://auth.geeksforgeeks.org/user/abulhax
+  - codingninjas: https://www.codingninjas.com/studio/profile/haxkd
 
 <!---
 haxkd/haxkd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
