@@ -8,7 +8,7 @@
   - twitter: https://twitter.com/abulhax
   - instagram: https://instagram.com/haxkd_official
   - linkedin: https://linkedin.com/in/haxkd
-  - hackerearth: https://hackerrank.com/abulhax
+  - hackerearth: https://www.hackerearth.com/@haxkd
   - Codechef: https://codechef.com/users/haxkd
   - code forces: https://codeforces.com/profile/haxkd
   - hackerrank: https://www.hackerrank.com/abulhax
