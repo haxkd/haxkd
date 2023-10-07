@@ -26,11 +26,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app/?username=haxkd&theme=matrix" alt="haxkd" /> 
 </div>
 <br>
-<style>
-  div{
-    color: lime;
-  }
-</style>
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haxkd&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="haxkd" />
 </div>
