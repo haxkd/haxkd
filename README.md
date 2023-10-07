@@ -23,6 +23,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=haxkd&theme=matrix" alt="haxkd" /> 
 </div>
-<div>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haxkd&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="haxkd" />
 </div>
+ <div align="center"><img align="center"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=haxkd&theme=radical"
+                alt="haxkd" />
+ </div>
