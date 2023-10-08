@@ -46,5 +46,8 @@ You can click the Preview link to take a look at your changes.
             src="https://github-contributor-stats.vercel.app/api?username=haxkd&limit=5&theme=radical&combine_all_yearly_contributions=true"
             alt="Haxkd Contributor Stats" />
  </div>
-
+ <br>
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxkd&theme=2077)
+</div>
 [![An image of @haxkd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/haxkd)](https://holopin.io/@haxkd)
